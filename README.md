@@ -10,7 +10,7 @@
 ### Инструкция по запуску
 1) Получить API-ключ для ChimeraGPT
 
-Вступаем в Discord проекта (https://discord.gg/chimeragpt), проходим верификацию (https://discord.com/channels/1109383423061147680/1110612696874885141), идем в канал #bot и отправляем команду /key get
+Вступаем в Discord проекта (https://discord.gg/chimeragpt), проходим верификацию (https://discord.com/channels/1109383423061147680/1110612696874885141), идем в канал #bot #commands и отправляем команду /key get /get key
 
 2) Получить API-ключ телеграмм-бота
 
